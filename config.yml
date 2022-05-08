@@ -1,0 +1,11 @@
+# insert your bot token here.
+token:
+
+# id of bot owner, doesn't really do anything rn.
+owner_id:
+
+# guilds
+guilds:
+
+# directory to store temporary files, such as downloaded schematic files.
+temp_directory: run/

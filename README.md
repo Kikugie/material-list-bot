@@ -15,6 +15,9 @@ To get material list right click on a message with the file and choose "Material
 In the bot message UI you can list view components and switch pages for big lists.
 
 *After 3 minutes list view expire and buttons disappear, blame Discord for this*
+![image](https://user-images.githubusercontent.com/50152507/167305363-53fef8db-2b3c-4b7e-a722-aeba03359128.png)
+![image](https://user-images.githubusercontent.com/50152507/167305263-2418ef5b-eb49-4520-8769-f93a5b9d162e.png)
+
 
 **Extra:**
 

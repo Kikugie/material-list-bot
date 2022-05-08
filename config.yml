@@ -4,8 +4,8 @@ token:
 # id of bot owner, doesn't really do anything rn.
 owner_id:
 
-# guilds
-guilds:
+# guilds (should be a list)
+guilds: []
 
 # directory to store temporary files, such as downloaded schematic files.
 temp_directory: run/
